@@ -9,3 +9,11 @@
 
 ## About Laravel Blog
 I just learrn how to make a simple blog with laravel framework
+
+Create Database
+You can create database and give name with "laravel7"
+
+Run Migration
+You can run in your terminal with your directory "php artisan migrate"
+
+Run Faker
